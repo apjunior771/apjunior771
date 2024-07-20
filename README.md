@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 \_(o_O)_/
 
 <!--
 **apjunior771/apjunior771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
